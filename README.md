@@ -3,7 +3,8 @@ Awesome papers and presentations related to networking
 
 # BGP
 
-* [In Search for an Appropriate Granularity to Model RoutingPolicies](http://ccr.sigcomm.org/online/files/fp200-muehlbauer.pdf)
+* [Stable Internet Routing Without Global Coordination](https://www.cs.princeton.edu/~jrex/papers/sigmetrics00.pdf)
+* [In Search for an Appropriate Granularity to Model Routing Policies](http://ccr.sigcomm.org/online/files/fp200-muehlbauer.pdf)
 
 # Configuration management
 
@@ -12,6 +13,7 @@ Awesome papers and presentations related to networking
 # Load Balancing
 
 * [Balancing on the Edge: Transport Affinity without Network State](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf)
+* [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eisenbud.pdf)
 * [Ananta: Cloud Scale Load Balancing](http://conferences.sigcomm.org/sigcomm/2013/papers/sigcomm/p207.pdf)
 
 # SDN
