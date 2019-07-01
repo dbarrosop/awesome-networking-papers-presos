@@ -11,12 +11,12 @@ Awesome papers and presentations related to networking
 
 # Load Balancing
 
-* [Balancing on the Edge:  Transport Affinity without Network State](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf)
+* [Balancing on the Edge: Transport Affinity without Network State](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf)
 * [Ananta: Cloud Scale Load Balancing](http://conferences.sigcomm.org/sigcomm/2013/papers/sigcomm/p207.pdf)
 
 # SDN
 
-* [Taking the Edge off with Espresso: Scale, Reliability andProgrammability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
+* [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
 
 # TCP
 
