@@ -16,6 +16,10 @@ Awesome papers and presentations related to networking
 * [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eisenbud.pdf)
 * [Ananta: Cloud Scale Load Balancing](http://conferences.sigcomm.org/sigcomm/2013/papers/sigcomm/p207.pdf)
 
+# Optical
+
+* [Everything You Always Wanted to Know About Optical Networking - But Were Afraid to Ask (2017)](https://archive.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.pdf)
+
 # SDN
 
 * [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
