@@ -21,6 +21,10 @@ Awesome papers and presentations related to networking
 
 * [Everything You Always Wanted to Know About Optical Networking - But Were Afraid to Ask (2017)](https://archive.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.pdf)
 
+# Scaling
+
+* [Partially FIBing](https://www.nanog.org/sites/default/files/20161010_Jaeggli_Partially_Fibing__v2.pdf)
+
 # SDN
 
 * [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
