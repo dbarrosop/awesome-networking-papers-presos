@@ -6,7 +6,11 @@ Awesome papers and presentations related to networking
 * [Stable Internet Routing Without Global Coordination](https://www.cs.princeton.edu/~jrex/papers/sigmetrics00.pdf)
 * [In Search for an Appropriate Granularity to Model Routing Policies](http://ccr.sigcomm.org/online/files/fp200-muehlbauer.pdf)
 
-# Configuration management
+# Buffers and Queuing
+
+* [Buffer sizing and AQM observations at Netflix](https://ripe78.ripe.net/wp-content/uploads/presentations/140-RIPE-78-Buffer-Sizing-and-AQM-Observations-at-Netflix.pdf)
+
+# Configuration Management
 
 * [A General Approach to Network Configuration Analysis](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-fogel.pdf)
 
