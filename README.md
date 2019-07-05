@@ -5,6 +5,7 @@ Awesome papers and presentations related to networking
 
 * [Stable Internet Routing Without Global Coordination](https://www.cs.princeton.edu/~jrex/papers/sigmetrics00.pdf)
 * [In Search for an Appropriate Granularity to Model Routing Policies](http://ccr.sigcomm.org/online/files/fp200-muehlbauer.pdf)
+* [BGP4 Case Studies/Tutorial](https://www.cs.rutgers.edu/~badri/552dir/papers/bgp/BGP-Case-Studies.pdf)
 
 # Buffers and Queuing
 
