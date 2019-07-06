@@ -1,0 +1,10 @@
+language: node_js
+
+node_js:
+  - "7"
+
+before_script: 
+  - make install-link-check
+
+script:
+  - make link-check
