@@ -27,7 +27,7 @@ Awesome papers and presentations related to networking
 
 # Scaling
 
-* [Partially FIBing](https://www.nanog.org/sites/default/files/20161010_Jaeggli_Partially_Fibing__v2.pdf)
+* [Partially FIBing](https://archive.nanog.org/sites/default/files/20161010_Jaeggli_Partially_Fibing__v2.pdf)
 
 # SDN
 
