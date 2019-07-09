@@ -20,6 +20,7 @@ Awesome papers and presentations related to networking
 * [Balancing on the Edge: Transport Affinity without Network State](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf)
 * [Hashing on broken assumptions](https://archive.nanog.org/sites/default/files/1_Saino_Hashing_On_Broken_Assumptions.pdf)
 * [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eisenbud.pdf)
+* [Stateless Datacenter Load-balancing with Beamer](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-olteanu.pdf)
 
 # Optical
 
