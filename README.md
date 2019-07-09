@@ -34,6 +34,8 @@ Awesome papers and presentations related to networking
 
 * [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
 
+* [The Design and Implementation of Open vSwitch](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-pfaff.pdf)
+
 # TCP
 
 * [Data Center TCP (DCTCP)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
