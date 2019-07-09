@@ -37,3 +37,7 @@ Awesome papers and presentations related to networking
 # TCP
 
 * [Data Center TCP (DCTCP)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+
+# Network Design
+
+* [A Universal Approach to Data Center Network Design](https://users.cs.duke.edu/~tbenson/papers/ICDCN15.pdf)
