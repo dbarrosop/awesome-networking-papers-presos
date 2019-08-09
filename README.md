@@ -21,6 +21,7 @@ Awesome papers and presentations related to networking
 * [Balancing on the Edge: Transport Affinity without Network State](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf)
 * [Hashing on broken assumptions](https://archive.nanog.org/sites/default/files/1_Saino_Hashing_On_Broken_Assumptions.pdf)
 * [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eisenbud.pdf)
+* [Stateless Datacenter Load-balancing with Beamer](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-olteanu.pdf)
 
 # Optical
 
@@ -34,6 +35,12 @@ Awesome papers and presentations related to networking
 
 * [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf)
 
+* [The Design and Implementation of Open vSwitch](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-pfaff.pdf)
+
 # TCP
 
 * [Data Center TCP (DCTCP)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+
+# Network Design
+
+* [A Universal Approach to Data Center Network Design](https://users.cs.duke.edu/~tbenson/papers/ICDCN15.pdf)
